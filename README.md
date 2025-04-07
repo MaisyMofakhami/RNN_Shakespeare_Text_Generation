@@ -68,7 +68,7 @@ Best model performance was observed using:
 ✅ BEST CONFIG FOR DF_TOKENS: embed=86, hidden=128, opt=RMSPROP | Val Loss: 0.4363, Perplexity: 1.55
 
 ✅ BEST CONFIG FOR DF_LONG: embed=86, hidden=128, opt=RMSPROP | Val Loss: 0.7485, Perplexity: 2.11
-  ```
+
 
 ## ✍️ Text Generation
 
